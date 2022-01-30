@@ -1,0 +1,3 @@
+- This is one of the first projects that I made in Qt creator using C++.
+- As its name goes, It is a notepad with some basic functionalities.
+- Just Copy the whole folder and run using NotePadApp.exe.
